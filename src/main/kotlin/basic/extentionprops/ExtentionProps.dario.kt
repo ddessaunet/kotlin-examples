@@ -4,12 +4,6 @@ import java.math.BigDecimal
 
 fun main(args: Array<String>) {
 
-}
-
-fun higherOrder(f: (Int, Int) -> Int) {
-
-    val float = 10F
-
     val bd = 10.BD
 
 }
