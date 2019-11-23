@@ -7,7 +7,7 @@ fun threads() {
     jobs.forEach {
         thread {
             Thread.sleep(1000L)
-            println(".")
+            print(".")
         }
     }
 }
