@@ -1,4 +1,4 @@
-package basic.async
+package advance.async
 
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.runBlocking
